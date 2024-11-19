@@ -2,3 +2,5 @@
 
 ## Author
 Zanan Pech
+
+Solving merge conflicts is easy!
